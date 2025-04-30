@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vik3sh
-- 👀 I’m interested in learning new things.
+- 👀 I’m intrested in learning and exploring new things.
 - 🌱 I’m currently learning Game Development
 - 💞️ I’m looking to collaborate on web development, Game development.
 - 📫 How to reach me E-mail: negivikesh2@gmail.com
