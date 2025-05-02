@@ -20,7 +20,7 @@
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Vik3sh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Vik3sh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vik3sh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vik3sh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vik3sh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
