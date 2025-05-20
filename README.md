@@ -25,7 +25,7 @@
 <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vik3sh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vik3sh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)]([https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai))
 
 
 
